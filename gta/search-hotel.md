@@ -1,4 +1,8 @@
-## Hotel Request By City
+## Example XML Search Hotel Price request
+
+The XML message below gives a sample of the expected elements needed by the API to execute a Search Hotel Price Request.
+
+### Hotel price search request at city level
 
 ```
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -48,3 +52,5 @@
 	</RequestDetails>
 </Request>
 ```
+
+
